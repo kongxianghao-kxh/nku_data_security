@@ -1,7 +1,7 @@
 {
     "name": "data-security",
     "build": {
-        "dockerfile": "../Dockerfile"
+        "dockerfile": "Dockerfile"
     },
     "customizations": {
         "vscode": {
